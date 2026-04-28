@@ -28,7 +28,7 @@ os_disk_type    = "Ephemeral"
 os_disk_size_gb = 50
 
 tags = {
-  Creator = "Creator=rishitha_sj@epam.com"
+  Creator = "rishitha_sj@epam.com"
 }
 
 repo_url = "https://github.com/m-vp/Terraform-Task#main:task08/application"
