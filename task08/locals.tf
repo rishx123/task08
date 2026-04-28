@@ -4,7 +4,7 @@ locals {
   keyvault_name = join("-", [var.name_prefix, "kv"])
   aci_name      = join("-", [var.name_prefix, "ci"])
   aks_name      = join("-", [var.name_prefix, "aks"])
-  acr_name      = "cmtrfrq948m6mod8cr"
+  acr_name      = "cmtrlye32no2mod8cr"
   image_name    = var.docker_image_name
 
 }
